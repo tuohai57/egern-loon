@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,🎯 Gemini
+DOMAIN,aistudio.google.com,🎯 Gemini
+DOMAIN,gemini.google.com,🎯 Gemini
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
 DOMAIN,ai.google.dev
@@ -11,3 +14,4 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN,generativelanguage.googleapis.com

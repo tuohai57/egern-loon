@@ -1,3 +1,10 @@
+DOMAIN-SUFFIX,grok.com,🎯 OpenAI
+DOMAIN-SUFFIX,x.ai,🎯 OpenAI
+DOMAIN-SUFFIX,sora.com,🎯 OpenAI
+DOMAIN-SUFFIX,oaiusercontent.com,🎯 OpenAI
+DOMAIN-SUFFIX,oaistatic.com,🎯 OpenAI
+DOMAIN-SUFFIX,chatgpt.com,🎯 OpenAI
+DOMAIN-SUFFIX,openai.com,🎯 OpenAI
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com

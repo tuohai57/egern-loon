@@ -1,0 +1,3 @@
+# Loon native rules: Tachimanga
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,tachimanga.app

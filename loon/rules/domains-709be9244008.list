@@ -1,0 +1,7 @@
+# Loon native rules: Outlook
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,outlook.live.com
+DOMAIN-SUFFIX,outlook.office.com
+DOMAIN-SUFFIX,outlook.office365.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,outlook.com

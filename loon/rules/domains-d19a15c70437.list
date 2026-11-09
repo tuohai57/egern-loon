@@ -1,0 +1,6 @@
+# Loon native rules: Gmail
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,gmail.googleapis.com
+DOMAIN-SUFFIX,mail.google.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,googlemail.com

@@ -1,0 +1,6 @@
+# Loon native rules: iCloud
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,me.com

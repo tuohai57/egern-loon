@@ -1,0 +1,4 @@
+# Loon native rules: YouTube Music
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,music.youtube.com
+DOMAIN-SUFFIX,music.youtube

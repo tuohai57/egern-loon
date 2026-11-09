@@ -1,0 +1,7 @@
+# Loon native rules: Apple
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,cdn-apple.com

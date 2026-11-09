@@ -1,0 +1,3 @@
+# Loon native rules: Google Chrome
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,chrome.google.com

@@ -1,0 +1,6 @@
+# Loon native rules: Google Play
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com

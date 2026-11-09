@@ -1,0 +1,5 @@
+# Loon native rules: WhatsApp
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net

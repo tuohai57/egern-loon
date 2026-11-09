@@ -1,0 +1,3 @@
+# Loon native rules: Aidoku
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,aidoku.app

@@ -1,0 +1,7 @@
+# Loon native rules: Google Drive
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,sheets.google.com
+DOMAIN-SUFFIX,slides.google.com
+DOMAIN-SUFFIX,drive.google

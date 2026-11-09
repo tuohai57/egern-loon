@@ -1,0 +1,6 @@
+# Loon native rules: App Store
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,appstore.com

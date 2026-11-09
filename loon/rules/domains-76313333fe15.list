@@ -1,0 +1,6 @@
+# Loon native rules: Riot共享
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,pvp.net
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,rstatic.net

@@ -1,0 +1,6 @@
+# Loon native rules: Zoom
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomcdn.net
+DOMAIN-SUFFIX,zoomgov.com

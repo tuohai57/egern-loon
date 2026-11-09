@@ -1,0 +1,6 @@
+# Loon native rules: 字节共享海外
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,isnssdk.com

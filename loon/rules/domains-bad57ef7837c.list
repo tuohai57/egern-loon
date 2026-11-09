@@ -1,0 +1,5 @@
+# Loon native rules: Instagram
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,instagram.com

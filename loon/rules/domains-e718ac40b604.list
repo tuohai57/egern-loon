@@ -1,0 +1,5 @@
+# Loon native rules: Google 相册
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,photos.google.com
+DOMAIN-SUFFIX,photos.googleapis.com
+DOMAIN-SUFFIX,photos.google

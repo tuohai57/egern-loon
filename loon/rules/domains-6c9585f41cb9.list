@@ -1,0 +1,3 @@
+# Loon native rules: Egern
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,egernapp.com

@@ -1,0 +1,8 @@
+# Loon native rules: Apple Music
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,aod-ssl.itunes.apple.com
+DOMAIN-SUFFIX,aod.itunes.apple.com
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+DOMAIN-SUFFIX,mvod.itunes.apple.com
+DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,music.apple.com

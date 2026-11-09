@@ -1,0 +1,3 @@
+# Loon native rules: Infuse
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,firecore.com

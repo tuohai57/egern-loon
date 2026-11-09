@@ -1,0 +1,6 @@
+# Loon native rules: Google 地图
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,maps.google.com
+DOMAIN-SUFFIX,maps.googleapis.com
+DOMAIN-SUFFIX,maps.gstatic.com
+DOMAIN-SUFFIX,maps.google

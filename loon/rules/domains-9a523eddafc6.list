@@ -1,0 +1,5 @@
+# Loon native rules: Messenger
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,msngr.com

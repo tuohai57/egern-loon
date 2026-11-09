@@ -1,0 +1,4 @@
+# Loon native rules: HP
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,hp.com
+DOMAIN-SUFFIX,hpsmart.com

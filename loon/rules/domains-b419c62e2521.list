@@ -1,0 +1,7 @@
+# Loon native rules: Apple TV+
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+DOMAIN-SUFFIX,hls.itunes.apple.com
+DOMAIN-SUFFIX,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com.cn
+DOMAIN-SUFFIX,tv.apple.com

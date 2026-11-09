@@ -1,0 +1,7 @@
+# Loon native rules: Meta共享
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,connect.facebook.net
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,graph.facebook.net
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com

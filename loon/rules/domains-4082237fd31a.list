@@ -1,0 +1,3 @@
+# Loon native rules: Surge
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,nssurge.com

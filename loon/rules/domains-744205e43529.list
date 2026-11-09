@@ -1,0 +1,6 @@
+# Loon native rules: Anthropic
+# Routing policy is assigned by the subscription entry.
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com

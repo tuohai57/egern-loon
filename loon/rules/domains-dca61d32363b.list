@@ -1,0 +1,4 @@
+# Loon native rules: Grok
+# Routing policy is assigned by the subscription entry.
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
